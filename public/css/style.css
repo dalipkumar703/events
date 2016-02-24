@@ -1,0 +1,40 @@
+ #one ,#text ,#number ,#url ,#password  ,#time  ,#time , #hour ,#mail 
+{
+	padding:17px;
+	margin-top:0px;
+	margin-left:50px;
+	height:0px;
+	width:50%;
+	border-radius:5px;	
+}
+
+#button
+{
+	margin-left:50px;
+	margin-top:5px;
+	color:#00cccc;
+}
+*{
+	padding:0px;
+    margin: 0px 0px 0px 0px; 	
+}
+#summary
+{
+	width:50%; 
+}
+span
+{
+	color: #00cccc;
+}
+img {
+   padding:1px;
+   border:1.5px solid #00cccc;
+   background-color:#ffffff;
+    
+}
+img:hover {
+	opacity:1.3;
+	cursor: pointer;
+	border:2px solid #000000;
+	 -webkit-filter: contrast(100%);
+}

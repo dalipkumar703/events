@@ -1,0 +1,1 @@
+echo hi,new event request come please check out admin page and accept event
